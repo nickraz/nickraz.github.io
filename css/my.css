@@ -1,4 +1,5 @@
-.btn btn-danger btn-lg
+.button_buy
 {
-	font-size: 200px;
+	width: 100%;
+    margin: 0 auto; 
 }
