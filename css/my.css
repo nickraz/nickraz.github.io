@@ -1,5 +1,15 @@
-.button_buy
+/* font-family: "GregorRegular"; */
+@font-face {
+    font-family: "GregorRegular";
+    src: url("../fonts/GregorRegular/GregorRegular.eot");
+    src: url("../fonts/GregorRegular/GregorRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/GregorRegular/GregorRegular.woff") format("woff"),
+    url("../fonts/GregorRegular/GregorRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+p, h1, h2, h3, a, a i
 {
-	width: 100%;
-    margin: 0 auto; 
+	font-family: "GregorRegular";
 }
